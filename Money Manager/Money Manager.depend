@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474207004 source:c:\users\hatem alshafaei\desktop\project money\money manager\main.cpp
+	<iostream>
+	<fstream>
+
+1474875446 source:e:\project money\money manager\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<math.h>
+
